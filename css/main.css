@@ -44,7 +44,7 @@ body {
     height: 302px;
     border-radius: 20px;
     border-radius: 20px;
-    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    background: linear-gradient(90deg, rgba(110,107,112,1) 0%, rgba(102,78,78,1) 50%, rgba(147,107,75,1) 50%, rgba(52,10,55,1) 100%);
     box-shadow: 0px 34px 101px 0px rgba(9, 0, 63, 0.38);
     transition: all 0.8s ease;
     position: absolute;
